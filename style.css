@@ -1,0 +1,49 @@
+
+ 
+ /* general & typography */
+
+
+body,
+html {
+  margin: 0;
+  font-family: "Yeseva One", serif;
+  background: url(greek.jpg) no-repeat center center fixed;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 5rem;
+  color: rgb(27, 30, 31);
+  text-align: center;
+}
+
+
+/* styling  */
+
+
+
+.show-name {
+  text-align: center;
+}
+
+.btn {
+  margin: 30px;
+  font-family: "Yeseva One", serif;
+  font-weight: 550;
+  border-radius: 20px;
+}
+
+.btn-dark:hover {
+  background: #e0dcd7;
+  font-weight: 550;
+  color: rgb(27, 30, 31);
+  border-color: rgb(27, 30, 31);
+}
+
+.btn-xl {
+  padding: 0.5rem 2rem;
+  margin: auto, auto;
+}
+
+/* -------------------------------------------------- */
